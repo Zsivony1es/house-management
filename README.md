@@ -1,5 +1,5 @@
 # Housing Management / Hausverwaltung
-Simple house management program in Java, that was made for a university project
+A simple housing management program in Java, that was made for a university project
 
 This program uses the built-in serialization tools of Java, to save a list of flats managed by the system. It will create a ```.ser``` file, which can be read from,  written to and modified by this program.
 
